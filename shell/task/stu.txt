@@ -1,0 +1,9 @@
+1,Sowjanya,60,50,40
+2,Jaya Krishna,50,50,40
+3,Karthik N,50,55,77
+4,Mahesh,54,66,89
+5,Ashish,32,65,54
+6,Prasanth,33,45,32
+7,Karthik Kumar,77,34,45
+8,Mohan Reddy,44,76,67
+9,Raghav,49,45,76

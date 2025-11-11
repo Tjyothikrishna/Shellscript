@@ -1,0 +1,12 @@
+linux_harshitha
+aix_sowjanya
+alc_reddy
+db_prsanth
+ora_ashish
+admin_karthik
+db2_mahesh
+dev_sai
+ad_raghu
+prod_swamy
+admin_mohan
+db_jk

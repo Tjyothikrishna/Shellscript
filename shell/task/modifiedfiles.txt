@@ -1,0 +1,10 @@
+total 3676
+-rw-r--r-- 1 root root     1434 May  8 16:26 bash_excercise_1.txt
+-rwxr-xr-x 1 root root      464 May  8 14:45 prg54.sh
+-rwxr--r-- 1 root root      416 May  8 14:44 pmts37.sh
+-rwxr-xr-x 1 root root      858 May  7 19:47 prg64.sh
+-rw-r--r-- 1 root root      187 May  7 10:53 stu.txt
+-rw-r--r-- 1 root root      187 May  7 10:53 stu1.txt
+-rwxr--r-- 1 root root     2946 May  6 14:20 prg33.sh
+drwxr-xr-x 2 root root      157 May  2 15:51 shell
+-rw-r--r-- 1 root  7001      18 May  1 18:13 nkarthik

@@ -1,0 +1,10 @@
+18M	/root
+11M	/root/mahesh
+6.6M	/root/mahesh/mahesh
+3.0M	/root/qla2xxx-10.02.09.00-k
+3.0M	/root/mahesh/qla2xxx-10.02.09.00-k
+3.0M	/root/mahesh/mahesh/qla2xxx-10.02.09.00-k
+184K	/root/qla2xxx-10.02.09.00-k/extras
+184K	/root/mahesh/qla2xxx-10.02.09.00-k/extras
+184K	/root/mahesh/mahesh/qla2xxx-10.02.09.00-k/extras
+40K	/root/shell

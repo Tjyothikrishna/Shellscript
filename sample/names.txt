@@ -1,0 +1,12 @@
+linux_pooja
+aix_bindu
+alc_madhuri
+db_prsahant
+ora_ganesh
+admin_mohit
+db2_mounika
+dev_balu
+ad_raghu
+prod_usha
+admin_hemath
+db_damo

@@ -1,0 +1,103 @@
+
+ ************************* 192.168.1.31 -- sowjanya.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************** 192.168.1.32 (NOT REACHABLE) **************************
+
+ ************************* 192.168.1.33 -- harshitha.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.34 -- raghav **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.35 -- jayasri.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.36 -- uma.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.37 -- mohanreddy **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.38 -- vamsi.alclabs.in **************************
+  Device : /dev/mapper/rhel-root 
+                   Mount Point : /
+                   Usage : 27%
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.39 -- mahesh **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.40 -- mani.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.41 -- karthik **************************
+  Device : /dev/mapper/rhel-root 
+                   Mount Point : /
+                   Usage : 23%
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+  Device : /dev/sr0 
+                   Mount Point : /mnt
+                   Usage : 100%
+
+ ************************* 192.168.1.42 -- prasanth **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.43 -- narayanaswamy **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.44 -- jk **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.45 -- karthikk **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************** 192.168.1.46 (NOT REACHABLE) **************************
+
+ ************************* 192.168.1.47 -- leelachandra.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.48 -- puneeth.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.49 -- keerthi.alclabs.in **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
+
+ ************************* 192.168.1.50 -- sai **************************
+  Device : /dev/sda1 
+                   Mount Point : /boot
+                   Usage : 24%
